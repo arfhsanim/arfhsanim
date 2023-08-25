@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Student to learn about IT </h1>
 
 I'm interested in problem solving and learning something new. I am fascinated by how technology work and I spend most of my spare time designing programs and web pages because I enjoy problem solving and logical thinking... Throughout my academic life, I have had different ideas about what career I would pursue in the future.
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML , Android]
 - 🔭 I’m currently Studding in **Green University of Bangladesh department of CSE**
 - 🌱 I’m currently learning backend developing 
