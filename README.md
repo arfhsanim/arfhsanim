@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi there 👋, I'm Ariful Hasan Sanim</h1>
-<h3 align="center">A passionate Student to learn about IT </h1>
+<h3 align="center">A passionate Student to learn about IT </h3>
 
-I'm interested in problem solving and learning something new. I am fascinated by how technology work and I spend most of my spare time designing programs and web pages because I enjoy problem solving and logical thinking... Throughout my academic life, I have had different ideas about what career I would pursue in the future.
+I'm interested in problem-solving and learning something new. I am fascinated by how technology works and I spend most of my spare time designing programs and web pages because I enjoy problem solving and logical thinking... Throughout my academic life, I have had different ideas about what career I would pursue in the future.
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML , Android]
