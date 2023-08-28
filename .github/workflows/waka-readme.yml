@@ -1,7 +1,7 @@
 name: WakaTime
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: 0 */12 * * *
   workflow_dispatch:
 jobs: 
   update-readme:
@@ -24,7 +24,7 @@ jobs:
           SHOW_OS: True
           SHOW_EDITORS: True
           SHOW_LINES_OF_CODE: True
-          SHOW_TOTAL_CODE_TIME: False
-          SHOW_PROFILE_VIEWS: False
-          SHOW_SHORT_INFO: False
-          SHOW_LOC_CHART: False
+          SHOW_TOTAL_CODE_TIME: True
+          SHOW_PROFILE_VIEWS: True
+          SHOW_SHORT_INFO: True
+          SHOW_LOC_CHART: True
