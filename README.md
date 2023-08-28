@@ -5,26 +5,42 @@
 I'm interested in problem-solving and learning something new. I am fascinated by how technology works and I spend most of my spare time designing programs and web pages because I enjoy problem solving and logical thinking... Throughout my academic life, I have had different ideas about what career I would pursue in the future.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296.6%20thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 252.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 143 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-🌃 Evening                74 commits          ███████████████░░░░░░░░░░   58.27 % 
-🌙 Night                  32 commits          ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌃 Evening                75 commits          ███████████████░░░░░░░░░░   58.59 % 
+🌙 Night                  32 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Wednesday                25 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Saturday                 28 commits          ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Sunday                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Monday                   15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Tuesday                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Wednesday                25 commits          █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Saturday                 28 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Sunday                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 ```
 
 
@@ -58,8 +74,12 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 2023-08-28 @16:43:11 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
+
+
+ Last Updated on 2023-08-28 @16:46:47 UTC
 <!--END_SECTION:waka-->
 
 Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML , Android]
