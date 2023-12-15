@@ -46,7 +46,7 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 **🐱 My GitHub Data** 
 
-> 📦 301.5 kB Used in GitHub's Storage 
+> 📦 301.6 kB Used in GitHub's Storage 
  > 
 > 🏆 199 Contributions in the Year 2023
  > 
@@ -110,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-12-14 @12:36:24 UTC
+ Last Updated on 2023-12-15 @01:23:18 UTC
 <!--END_SECTION:waka-->
 
 
