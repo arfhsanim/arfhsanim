@@ -48,7 +48,7 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 > 📦 301.5 kB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2023-12-31 @12:33:24 UTC
+ Last Updated on 2024-01-01 @01:34:15 UTC
 <!--END_SECTION:waka-->
 
 
