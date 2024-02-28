@@ -40,7 +40,7 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.9%20thousand%20lines%20of%20code-blue)
 
@@ -110,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-02-28 @01:15:20 UTC
+ Last Updated on 2024-02-28 @12:32:16 UTC
 <!--END_SECTION:waka-->
 
 
