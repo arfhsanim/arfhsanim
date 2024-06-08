@@ -5,7 +5,7 @@
 I'm interested in problem-solving and learning something new. I am fascinated by how technology works and I spend most of my spare time designing programs and web pages because I enjoy problem solving and logical thinking... Throughout my academic life, I have had different ideas about what career I would pursue in the future.
 
 Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
-- 🔭 I’ve complicated my BSC in Computer Science and Engineering from **Green University of Bangladesh**
+- 🔭 I’ve completed my BSC in Computer Science and Engineering from **Green University of Bangladesh**
 - 🌱 I’m currently learning Flutter using Dart 
 - 🤔 I’m looking for help to learn something new that will be demandable in future  
 - 📫 To reach me: **ariful.cse37@gmail.com**
