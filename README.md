@@ -38,17 +38,17 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 301.7 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,21 +59,21 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-🌆 Daytime                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-🌃 Evening                111 commits         ████████████████░░░░░░░░░   63.43 % 
-🌙 Night                  33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+🌆 Daytime                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+🌃 Evening                113 commits         ████████████████░░░░░░░░░   63.84 % 
+🌙 Night                  33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Wednesday                41 commits          ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Saturday                 31 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Sunday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Monday                   25 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Wednesday                41 commits          ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Saturday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Sunday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
 ```
 
 
@@ -81,16 +81,19 @@ Sunday                   35 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     3 hrs 32 mins       █████████████████████████   98.55 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dart                     2 hrs 3 mins        ██████████████░░░░░░░░░░░   57.33 % 
+Downloads                1 hr 31 mins        ███████████░░░░░░░░░░░░░░   42.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -110,7 +113,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-06-08 @12:34:50 UTC
+ Last Updated on 2024-06-09 @01:38:27 UTC
 <!--END_SECTION:waka-->
 
 
