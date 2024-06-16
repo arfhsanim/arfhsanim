@@ -38,6 +38,8 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2054%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-569.5%20thousand%20lines%20of%20code-blue)
@@ -112,7 +114,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-06-16 @01:42:47 UTC
+ Last Updated on 2024-06-16 @12:36:45 UTC
 <!--END_SECTION:waka-->
 
 
