@@ -48,6 +48,8 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 > 📦 301.9 kB Used in GitHub's Storage 
  > 
+> 🏆 14 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -108,7 +110,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-11-13 @12:45:53 UTC
+ Last Updated on 2024-11-14 @01:48:10 UTC
 <!--END_SECTION:waka-->
 
 
