@@ -46,9 +46,7 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 **🐱 My GitHub Data** 
 
-> 📦 304.1 kB Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2025
+> 📦 304.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -110,7 +108,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2025-01-15 @01:46:09 UTC
+ Last Updated on 2025-01-15 @12:44:22 UTC
 <!--END_SECTION:waka-->
 
 
