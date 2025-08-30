@@ -38,6 +38,8 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-569.5%20thousand%20lines%20of%20code-blue)
@@ -45,6 +47,8 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 **🐱 My GitHub Data** 
 
 > 📦 304.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -106,7 +110,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2025-08-30 @01:53:16 UTC
+ Last Updated on 2025-08-30 @12:47:06 UTC
 <!--END_SECTION:waka-->
 
 
