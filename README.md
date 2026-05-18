@@ -38,8 +38,6 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-564.65%20thousand%20lines%20of%20code-blue?style=flat)
@@ -56,43 +54,6 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-🌆 Daytime                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-🌃 Evening                114 commits         ████████████████░░░░░░░░░   62.30 % 
-🌙 Night                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Tuesday                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Wednesday                41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Saturday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Sunday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -110,7 +71,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-05-17 @13:49:54 UTC
+ Last Updated on 2026-05-18 @04:22:31 UTC
 <!--END_SECTION:waka-->
 
 
