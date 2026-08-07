@@ -38,8 +38,6 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566.19%20thousand%20lines%20of%20code-blue?style=flat)
@@ -56,49 +54,6 @@ Learned: [C, JAVA, PYTHON, JS, SQL, PHP,XML, Android]
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-🌆 Daytime                30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-🌃 Evening                116 commits         ████████████████░░░░░░░░░   62.70 % 
-🌙 Night                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   28 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Wednesday                41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Thursday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Saturday                 33 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Sunday                   37 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -116,7 +71,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arfhsanim/arfhsanim/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-06 @14:29:29 UTC
+ Last Updated on 2026-08-07 @03:10:32 UTC
 <!--END_SECTION:waka-->
 
 
